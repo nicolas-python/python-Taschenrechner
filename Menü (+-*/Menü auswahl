@@ -1,4 +1,3 @@
-Taschenrechner.py
 print("Python Taschenrechner")
 print("1 = Addition")
 print("2 = Subtraktion")
