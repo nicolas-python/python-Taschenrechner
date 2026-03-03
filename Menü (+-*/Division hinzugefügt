@@ -38,6 +38,12 @@ while True:
         ergebnis = zahl1 * zahl2
         print("Ergebnis",ergebnis)
 
+    if choice == "4":
+        zahl1 = float(input("Erste Zahl:"))
+        zahl2 = float(input("Zweite Zahl:"))
+        ergebnis = zahl1 / zahl2
+        print("Ergebnis",ergebnis)
+
     nochmal = input("Neue Rechnung starten? (y/n):")
     if nochmal =="n":
         break
