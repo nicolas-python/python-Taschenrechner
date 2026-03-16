@@ -1,13 +1,13 @@
 # Taschenrechner
 
-Ein einfacher Taschenrechner in Python für die Grundrechenarten.  
+Ein Taschenrechner in Python für die Grundrechenarten.  
 
 ## Funktionen
 
--Addition
--Subtraktion
--Multiplikation
--Division 
+- Addition
+- Subtraktion
+- Multiplikation
+- Division 
 
 ## Nutzung 
 
