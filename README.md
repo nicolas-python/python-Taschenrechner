@@ -13,7 +13,7 @@ Ein Taschenrechner in Python für die Grundrechenarten.
 
 Programm starten mit : 
 
-Pyhton main.py 
+Python main.py 
 
 Danach im Menü auswählen, mit welcher Rechenart gerechnet werden soll.
 Dann zwei Zahlen eingeben.
